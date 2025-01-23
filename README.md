@@ -2,7 +2,7 @@ preview
 <h1 align="center">Hi 👋, I'm Rohan Sahu</h1>
 <h3 align="center">Full-Stack Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therohan7" alt="therohan7" /></a> </p>
+
 
 - 🔭 I’m currently working on [ChatBot-RAG](https://github.com/theRohan7/Chatbot--RAG-)
 
